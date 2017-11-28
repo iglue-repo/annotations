@@ -1,5 +1,8 @@
 {
-    "name": "doctrine/annotations",
+    "name": "doctrine@iglue/annotations",
+    "replace": {
+        "doctrine/annotations": "v1.4.0"
+    },
     "type": "library",
     "description": "Docblock Annotations Parser",
     "keywords": ["annotations", "docblock", "parser"],
